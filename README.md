@@ -1,5 +1,5 @@
 # Hospital Management System
-Hospital Management System using MySQL, Php and Bootstrap
+Hospital Management System using HTML5, CSS3, JavaScript, Basic Database Concepts
 
 
 ## Need to work on:
@@ -21,11 +21,9 @@ Hospital Management System using MySQL, Php and Bootstrap
 ## Languages and Technologies used
 1. HTML5/CSS3
 2. JavaScript (to create dynamically updating content)
-3. Bootstrap (An HTML, CSS, and JS library)
-4. XAMPP (A web server by Apache Friends)
-5. Php
-6. MySQL (An RDBMS that uses SQL)
-7. TCPDF (to generate PDFs)
+3. XAMPP (A web server by Apache Friends)
+4. MySQL (An RDBMS that uses SQL)
+5. TCPDF (to generate PDFs)
 
 ## Steps to run the project in your machine
 1. Download and install XAMPP in your machine
@@ -196,9 +194,7 @@ This module allows admin to perform five major operations:
 
 ![image](https://user-images.githubusercontent.com/36665975/75170650-6d3dfa80-5750-11ea-8f05-455c7d704217.png)
 
-## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=kishan0725/Hospital-Management-System&type=Timeline)](https://star-history.com/#kishan0725/Hospital-Management-System&Timeline)
   
 
 
